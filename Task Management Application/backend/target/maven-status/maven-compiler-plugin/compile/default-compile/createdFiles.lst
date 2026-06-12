@@ -1,0 +1,14 @@
+com\taskapp\repository\TaskRepository.class
+com\taskapp\security\JwtFilter.class
+com\taskapp\model\Task$Status.class
+com\taskapp\model\Task.class
+com\taskapp\TaskManagementApplication.class
+com\taskapp\repository\UserRepository.class
+com\taskapp\controller\TaskController.class
+com\taskapp\controller\AuthController.class
+com\taskapp\model\Task$Priority.class
+com\taskapp\model\User.class
+com\taskapp\service\TaskService.class
+com\taskapp\config\SecurityConfig.class
+com\taskapp\service\AuthService.class
+com\taskapp\security\JwtUtil.class

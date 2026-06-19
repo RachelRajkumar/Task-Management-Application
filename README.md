@@ -3,7 +3,9 @@
 📌 Project Overview
 
 📝 The Task Management Application is a full-stack web application designed to help users manage their daily tasks efficiently.
+
 🚀 It provides secure user authentication, task creation, task tracking, task updates, and task deletion functionalities.
+
 🏗️ The application follows a modern client-server architecture using Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend.
 
 🚀 Features

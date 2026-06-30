@@ -4,6 +4,9 @@ WORKDIR /app
 
 COPY . .
 
+RUN ls -la
+RUN ls -la backend
+
 RUN chmod +x backend/mvnw
 RUN cd backend && ./mvnw clean package -DskipTests
 
